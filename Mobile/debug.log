@@ -1,0 +1,90 @@
+[0910/172520.836:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0916/185703.274:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0916/215617.754:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0921/125542.292:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0924/104339.349:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0927/185243.390:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1003/182259.675:ERROR:angle_platform_impl.cc(47)] testDeviceLost(1884): The D3D11 device was removed, HRESULT: 0x887A0007
+[1003/182259.683:ERROR:gles2_cmd_decoder.cc(16335)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[1003/182259.685:ERROR:gles2_cmd_decoder.cc(4677)]   GLES2DecoderImpl: Context reset detected after MakeCurrent.
+[1003/182259.685:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.690:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.690:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.691:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.691:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.691:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.691:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.691:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.692:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.692:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.692:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.693:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.693:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.693:ERROR:gpu_channel_manager.cc(218)] Exiting GPU process because some drivers cannot recover from problems.
+[1003/182259.704:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.704:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[1003/182259.715:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.719:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.719:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.719:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[1003/182259.719:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[1003/182259.720:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteFramebuffersEXT without current GL context
+[1003/182259.721:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[1003/182259.721:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteVertexArraysOES without current GL context
+[1003/182259.721:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteTextures without current GL context
+[1003/182259.721:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteProgram without current GL context
+[1003/182259.721:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteProgram without current GL context
+[1003/182259.722:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteProgram without current GL context
+[1003/182259.722:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteProgram without current GL context
+[1003/182259.722:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteProgram without current GL context
+[1003/182259.722:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[1003/182259.723:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[1003/182259.724:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[1003/182259.724:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[1003/182259.724:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[1003/182259.725:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[1003/182259.725:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[1003/182259.725:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[1003/182259.725:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[1003/182259.725:ERROR:gl_bindings_autogen_gl.cc(14114)] Trying to call glDeleteShader without current GL context
+[1003/182259.725:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: Context lost.
+[1003/182259.725:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.725:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.725:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[1003/182259.725:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[1003/182259.725:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.726:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.726:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.727:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroySurface: display had a context loss
+[1003/182259.727:ERROR:gl_surface_egl.cc(1171)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[1003/182259.727:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[1003/182259.728:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.729:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.729:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.729:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.729:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.729:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.730:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.731:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.731:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.731:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.732:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.732:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.732:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.732:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.732:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.733:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.738:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.738:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.738:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.738:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.738:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.738:ERROR:shared_image_stub.cc(191)] SharedImageStub: context already lost
+[1003/182259.738:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.739:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.739:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.739:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglMakeCurrent: display had a context loss
+[1003/182259.739:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.739:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[1003/182259.739:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglDestroyContext: display had a context loss
+[1003/182259.739:ERROR:gl_context_egl.cc(211)] eglDestroyContext failed with error EGL_CONTEXT_LOST
