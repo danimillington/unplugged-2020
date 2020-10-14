@@ -265,7 +265,7 @@ footer .copyright {
 
 .hero-area h1 {
   font-size: 2.25em;
-  font-family: 'Poppins', Helvetica, Arial, sans-serif;
+  font-family: 'Sansita Swashed', cursive;
   font-weight: 500;
   line-height: 1.2;
 }
@@ -331,6 +331,11 @@ input[type=button] {
   justify-content: center;
   align-items: center;
   flex-flow: row wrap;
+}
+
+.features i {
+  font-size: 3.75em;
+  margin-bottom: 40px;
 }
 
 .features p {
